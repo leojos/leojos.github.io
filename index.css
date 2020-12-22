@@ -1,0 +1,11 @@
+body{background-color: silver;}
+h1, h2 {
+    text-align: center;
+    color: green;
+}
+ul ,li {
+    border: 1px solid darkblue;
+}
+ul {
+    border-collapse: collapse;
+}
