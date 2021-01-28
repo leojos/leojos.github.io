@@ -1,1 +1,1 @@
-# I am learning web development with GitHub. Thanks
+# I am learning web development with GitHub. Thanks to GitHub
