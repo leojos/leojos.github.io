@@ -3,7 +3,7 @@ WEBVTT - This is my subtitle
 STYLE
 ::cue {
   background-image: linear-gradient(to-left, yellow, navy);
-  color: yellowgreen;
+  color: orange;
   }
   
 NOTE The above line is used to style cues
