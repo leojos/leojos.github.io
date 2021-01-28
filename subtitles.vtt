@@ -1,12 +1,27 @@
 WEBVTT - This is my subtitle
 
+STYLE
+::cue {
+  background-image: linear-gradient(to-left, yellow, navy);
+  color: yellowgreen;
+  }
+  
+NOTE The above line is used to style cues
+
+STYLE
+::cue(b) {
+  color: peachpuff;
+  }
+
 00:00:00.000 --> 00:00:05.000
 First line of my subtitle
 
+NOTE No styles after first que
+
 00:00:06.000 --> 00:00:15.000
-- Second line of my subtitle
-- One more additional line here
-a third line and more 
+- Second <b>line of<b> my subtitle
+- <b>One more additional line here
+a third line and more <b>
 and and and a fourth line.
 
 NOTE
