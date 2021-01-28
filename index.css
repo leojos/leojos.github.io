@@ -9,3 +9,7 @@ ul ,li {
 ul {
     border-collapse: collapse;
 }
+video::cue {
+    background-image: linear-gradient(to-bottom, yellow, navy);
+    color: yellogreen;
+}
