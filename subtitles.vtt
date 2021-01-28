@@ -13,12 +13,12 @@ STYLE
   color: peachpuff;
   }
 
-00:00:00.000 --> 00:00:03.000
+00:00:00.000 --> 00:00:03.000 vertical:rl
 First line of my subtitle
 
 NOTE No styles after first que
 
-00:00:04.000 --> 00:00:10.000
+00:00:04.000 --> 00:00:10.000 vertical:lr
 - Second <b>line of</b> my subtitle
 - <b>One more additional line here</b>
 - a third line and more x
