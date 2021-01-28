@@ -10,6 +10,9 @@ ul {
     border-collapse: collapse;
 }
 video::cue {
-    background-image: linear-gradient(to-bottom, yellow, navy);
+    background-image: linear-gradient(to-right, yellow, navy);
     color: yellogreen;
+}
+video::cue(b) {
+    color: peachpuff;
 }
